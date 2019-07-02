@@ -1,4 +1,6 @@
-p {
- font-family:'Orbitron', sans-serif;
- font-size: 100px;
+html {
+  background-color: black;
+  font-family:'Orbitron', sans-serif;
+  font-size: 100px;
+  color: green;
 };
